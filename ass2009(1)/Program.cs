@@ -38,6 +38,7 @@ namespace ass2009_1_
                 Console.WriteLine("Grade D");
             }
             Console.WriteLine("Test");
+            Console.WriteLine("sample code");
           
         }
     }
